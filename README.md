@@ -176,3 +176,44 @@ Elements are:  10 <--
 1.Push 2.Pop 3.Display 4.Exit
 Enter your choice:
 4
+**OUTPUT EX 6**
+
+Autoboxed Integer: 100 Autoboxed Float: 25.75 Autoboxed Character: A Autoboxed Boolean: true Unboxed int: 100 Unboxed float: 25.75 Unboxed char: A Unboxed boolean: true Parsed and autoboxed Integer: 300 Parsed and autoboxed Float: 75.25 Parsed and autoboxed Character: C Parsed and autoboxed Boolean: true
+
+**OUTPUT EX 7**
+Main Thread and Generated Number is 52 New Thread 52 is EVEN and Square of 52 is: 2704 New Thread 52 is ODD and Cube of 52 is: 140608
+
+Main Thread and Generated Number is 77 New Thread 77 is EVEN and Square of 77 is: 5929 New Thread 77 is ODD and Cube of 77 is: 456533
+
+Main Thread and Generated Number is 26 New Thread 26 is EVEN and Square of 26 is: 676 New Thread 26 is ODD and Cube of 26 is: 17576
+
+Main Thread and Generated Number is 28 New Thread 28 is ODD and Cube of 28 is: 21952 New Thread 28 is EVEN and Square of 28 is: 784
+
+Main Thread and Generated Number is 7 New Thread 7 is EVEN and Square of 7 is: 49 New Thread 7 is ODD and Cube of 7 is: 343
+
+**OUTPUT EX 8**
+Produced: 1 Consumed: 1 Produced: 2 Consumed: 2 Produced: 3 Consumed: 3 Produced: 4 Consumed: 4 Produced: 5 Consumed: 5
+
+**OUTPUT EX 9**
+
+Currently the array list obj1 has following elements:[Ajeet, Harry, Chaitanya, Steve, Anuj]
+
+ArrayList obj1 after add All:[Ajeet, Harry, Chaitanya, Steve, Anuj, Babu, Kamal, Alice, Bob, Raj]
+
+ArrayList obj1 after add element at the given index:[Rahul, Justin, Ajeet, Harry, Chaitanya, Steve, Anuj, Babu, Kamal, Alice, Bob, Raj]
+
+Enter the Search element: Babu
+
+ArrayList obj1 contains the string Babu :true
+
+Current array list of obj1 after removing element is:[Rahul, Justin, Ajeet, Steve, Anuj, Babu, Kamal, Alice, Bob, Raj]
+
+Current array list of obj1 after removing element through index is:[Rahul, Ajeet, Steve, Anuj, Babu, Kamal, Alice, Bob, Raj]
+
+Enter the letter to display all the string start with given letter: R
+
+ArrayList obj1 contains all the string start with given R:[Rahul, Raj]
+
+**OUTPUT EX 10**
+
+Fibonacci.java File Name:Fibonacci.java Path:Fibonacci.java Abs Path:/home/kali/javalab/Fibonacci.java Parent:null This file is:Does not exists Is file:false Is Directory:false Is Readable:false IS Writable:false Is Absolute:false File Last Modified:0 File Size:0bytes Is Hidden:false
