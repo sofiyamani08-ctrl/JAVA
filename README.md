@@ -217,3 +217,15 @@ ArrayList obj1 contains all the string start with given R:[Rahul, Raj]
 **OUTPUT EX 10**
 
 Fibonacci.java File Name:Fibonacci.java Path:Fibonacci.java Abs Path:/home/kali/javalab/Fibonacci.java Parent:null This file is:Does not exists Is file:false Is Directory:false Is Readable:false IS Writable:false Is Absolute:false File Last Modified:0 File Size:0bytes Is Hidden:false
+
+**OUTPUT EX 12**
+
+Railway Reservation For Kabul Express
+
+Book ticket
+Cancel ticket
+Search passenger
+Reservation chart
+Display unbooked tickets
+Exit Please enter your choice 1 Please enter the class of ticket
+AC 2. First 3. Sleeper 1 Please enter no. of tickets 1 Please enter your name Sanjay Please enter your age 20 Please enter your phno 8767897676 Ticket successfully booked Please pay Rs.1500
